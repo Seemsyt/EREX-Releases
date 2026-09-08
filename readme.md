@@ -44,6 +44,6 @@ Your Erex account and servers are heavily secured by our enterprise-grade backen
 If you encounter any bugs, payment issues, or need help configuring your server, please reach out to our support team:
 - **Support Email:** seems.developer@gmail.com
 
----
+
 *Copyright © 2026 Sims Kushawaha. All rights reserved.*
 ```
