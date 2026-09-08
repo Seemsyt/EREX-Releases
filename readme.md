@@ -5,7 +5,7 @@
 
   **Enterprise hosting for Bedrock creators.**
   
-  [![Download APK](https://img.shields.io/badge/Download-Latest_APK-00FF6A?style=for-the-badge&logo=android)](https://github.com/seems-dev/Erex-App/releases/latest)
+  [![Download APK](https://img.shields.io/badge/Download-Latest_APK-00FF6A?style=for-the-badge&logo=android)](https://github.com/Seemsyt/EREX-Releases/releases/tag/v1.0.0)
 </div>
 
 ---
@@ -18,7 +18,7 @@ Erex is the ultimate server management tool for Minecraft Bedrock creators. Our 
 
 ### How to Install
 
-1. Navigate to the **[Releases page]([https://github.com/seems-dev/Erex-App/releases/latest](https://github.com/Seemsyt/EREX-Releases/releases/tag/v1.0.0))**.
+1. Navigate to the **[Releases page]([https://github.com/seems-dev/Erex-App/releases/latest](https://github.com/Seemsyt/EREX-Releases/releases/tag/v1.0.0)**.
 2. Under the **Assets** section of the latest release, download the `app-release.apk` file.
 3. Open the downloaded file on your Android device.
 4. *Note: If this is your first time installing an app outside of the Google Play Store, your phone may ask you to enable "Install from unknown sources" in your settings.*
