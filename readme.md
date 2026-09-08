@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/seems-dev/Blockhost/main/flutter_client/assets/images/screen.png" alt="Erex Logo" width="120" />
+  <img src="(https://raw.githubusercontent.com/Seemsyt/EREX-Releases/main/screen.png)" alt="Erex Logo" width="120" />
 
   # Erex App
 
